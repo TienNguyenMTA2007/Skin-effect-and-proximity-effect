@@ -31,6 +31,8 @@ Skin depth (δ) is the effective depth near the surface of a conductor through w
 
 <img width="1288" height="687" alt="image" src="https://github.com/user-attachments/assets/f54aaf91-f8f7-408f-a786-8cc07363ff6b" />
 
+-----
+Overall, skin effect and proximity effect cause the increase of resistance and power loss so it's so harmful for electronic devices. The question is How do we reduce these two effects? Solutions?
 
 
 
